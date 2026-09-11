@@ -34,3 +34,7 @@ pip install openpyxl
 Run the program:
 
 python student_result.py
+
+## 📸 Project Screenshot
+
+![Student Result Management System](student-result-system.png)
